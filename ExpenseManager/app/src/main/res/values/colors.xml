@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="grey">#C6C2C2</color>
+    <color name="colorAccent2">#D6CD20</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dashboard_color">#A4E41B1B</color>
+    <color name="income_color">#A4E41B1B</color>
+    <color name="expense_color">#A4E41B1B</color>
+    <color name="red">#DDF10E0E</color>
+    <color name="drawer_text_color">#CEE8861D</color>
+    <color name="green">#FF88D62E</color>
+
+</resources>
